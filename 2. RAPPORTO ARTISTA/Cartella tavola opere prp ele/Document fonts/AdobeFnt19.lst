@@ -11,7 +11,11 @@ FullName:Antonio Light
 MenuName:Antonio
 StyleBits:0
 WritingScript:Roman
+<<<<<<< HEAD
+OutlineFileName:C:\Users\Eleonora\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.light.ttf
+=======
 OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.light.ttf
+>>>>>>> 98dc32ed6f49294b03eed47fb0cf273e8e40c2b0
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -35,7 +39,11 @@ FullName:Antonio Regular
 MenuName:Antonio
 StyleBits:0
 WritingScript:Roman
+<<<<<<< HEAD
+OutlineFileName:C:\Users\Eleonora\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.regular.ttf
+=======
 OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.regular.ttf
+>>>>>>> 98dc32ed6f49294b03eed47fb0cf273e8e40c2b0
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -59,7 +67,11 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
+<<<<<<< HEAD
+OutlineFileName:C:\Users\Eleonora\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\MinionPro-Regular.otf
+=======
 OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\MinionPro-Regular.otf
+>>>>>>> 98dc32ed6f49294b03eed47fb0cf273e8e40c2b0
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
