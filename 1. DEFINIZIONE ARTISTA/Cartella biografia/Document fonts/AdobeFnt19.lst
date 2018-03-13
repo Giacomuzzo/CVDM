@@ -14,12 +14,23 @@ WidthClass:1
 AngleClass:0
 FullName:Antonio Light
 WritingScript:Roman
+<<<<<<< HEAD
 OutlineFileName:\antonio.light.ttf
+=======
+OutlineFileName:C:\Users\Eleonora\Desktop\CVDM\1. DEFINIZIONE ARTISTA\Cartella biografia\Document fonts\antonio.light.ttf
+>>>>>>> 1744016d6caf637f4460ce27f989702960a50e3e
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:46564
+<<<<<<< HEAD
 FileModTime:1520586519
+=======
+FileModTime:1520520772
+WeightClass:300
+WidthClass:1
+AngleClass:0
+>>>>>>> 1744016d6caf637f4460ce27f989702960a50e3e
 NameArray:0,Mac,4,Antonio Light
 NameArray:0,Win,1,Antonio
 NameArray:0,Win,16,Antonio
@@ -38,12 +49,23 @@ WidthClass:1
 AngleClass:0
 FullName:Antonio Regular
 WritingScript:Roman
+<<<<<<< HEAD
 OutlineFileName:\antonio.regular.ttf
+=======
+OutlineFileName:C:\Users\Eleonora\Desktop\CVDM\1. DEFINIZIONE ARTISTA\Cartella biografia\Document fonts\antonio.regular.ttf
+>>>>>>> 1744016d6caf637f4460ce27f989702960a50e3e
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:47944
+<<<<<<< HEAD
 FileModTime:1520586519
+=======
+FileModTime:1520520772
+WeightClass:400
+WidthClass:1
+AngleClass:0
+>>>>>>> 1744016d6caf637f4460ce27f989702960a50e3e
 NameArray:0,Mac,4,Antonio Regular
 NameArray:0,Win,1,Antonio
 NameArray:0,Win,16,Antonio
