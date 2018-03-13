@@ -11,16 +11,12 @@ FullName:Antonio Light
 MenuName:Antonio
 StyleBits:0
 WritingScript:Roman
-<<<<<<< HEAD
-OutlineFileName:C:\Users\Eleonora\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.light.ttf
-=======
-OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.light.ttf
->>>>>>> 98dc32ed6f49294b03eed47fb0cf273e8e40c2b0
+OutlineFileName:C:\Users\Utente\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.light.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:46564
-FileModTime:1520881350
+FileModTime:1520932751
 WeightClass:300
 WidthClass:1
 AngleClass:0
@@ -39,16 +35,12 @@ FullName:Antonio Regular
 MenuName:Antonio
 StyleBits:0
 WritingScript:Roman
-<<<<<<< HEAD
-OutlineFileName:C:\Users\Eleonora\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.regular.ttf
-=======
-OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.regular.ttf
->>>>>>> 98dc32ed6f49294b03eed47fb0cf273e8e40c2b0
+OutlineFileName:C:\Users\Utente\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\antonio.regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:47944
-FileModTime:1520881350
+FileModTime:1520932751
 WeightClass:400
 WidthClass:1
 AngleClass:0
@@ -67,18 +59,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-<<<<<<< HEAD
-OutlineFileName:C:\Users\Eleonora\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\MinionPro-Regular.otf
-=======
-OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\MinionPro-Regular.otf
->>>>>>> 98dc32ed6f49294b03eed47fb0cf273e8e40c2b0
+OutlineFileName:C:\Users\Utente\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tavola opere prp ele\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1520881350
+FileModTime:1520932751
 WeightClass:400
 WidthClass:5
 AngleClass:0

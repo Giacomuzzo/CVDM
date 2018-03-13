@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.19
-%Locale:0x409
+%Locale:0x410
 
 %BeginFont
 Handler:DirectoryHandler
@@ -7,19 +7,27 @@ FontType:TrueType
 FontName:Antonio-Light
 FamilyName:Antonio
 StyleName:Light
+FullName:Antonio Light
 MenuName:Antonio
 StyleBits:0
-WeightClass:300
-WidthClass:1
-AngleClass:0
-FullName:Antonio Light
 WritingScript:Roman
+<<<<<<< HEAD
+OutlineFileName:C:\Users\Utente\Desktop\CVDM\1. DEFINIZIONE ARTISTA\Cartella biografia\Document fonts\antonio.light.ttf
+=======
 OutlineFileName:\antonio.light.ttf
+>>>>>>> 8bf8043b8d9d4f09cc7a5ae7dc6ba443ec2f5099
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:46564
+<<<<<<< HEAD
+FileModTime:1520602690
+WeightClass:300
+WidthClass:1
+AngleClass:0
+=======
 FileModTime:1520586519
+>>>>>>> 8bf8043b8d9d4f09cc7a5ae7dc6ba443ec2f5099
 NameArray:0,Mac,4,Antonio Light
 NameArray:0,Win,1,Antonio
 NameArray:0,Win,16,Antonio
@@ -31,19 +39,27 @@ FontType:TrueType
 FontName:Antonio-Regular
 FamilyName:Antonio
 StyleName:Regular
+FullName:Antonio Regular
 MenuName:Antonio
 StyleBits:0
-WeightClass:400
-WidthClass:1
-AngleClass:0
-FullName:Antonio Regular
 WritingScript:Roman
+<<<<<<< HEAD
+OutlineFileName:C:\Users\Utente\Desktop\CVDM\1. DEFINIZIONE ARTISTA\Cartella biografia\Document fonts\antonio.regular.ttf
+=======
 OutlineFileName:\antonio.regular.ttf
+>>>>>>> 8bf8043b8d9d4f09cc7a5ae7dc6ba443ec2f5099
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:47944
+<<<<<<< HEAD
+FileModTime:1520602690
+WeightClass:400
+WidthClass:1
+AngleClass:0
+=======
 FileModTime:1520586519
+>>>>>>> 8bf8043b8d9d4f09cc7a5ae7dc6ba443ec2f5099
 NameArray:0,Mac,4,Antonio Regular
 NameArray:0,Win,1,Antonio
 NameArray:0,Win,16,Antonio
