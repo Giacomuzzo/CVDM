@@ -1,0 +1,94 @@
+ISTRUZIONI DI STAMPA ADOBE INDESIGN DESTINATE AL SERVICE DI STAMPA
+
+NOME PUBBLICAZIONE: biografia 13-03.indd
+
+DATA PREPARAZIONE PACCHETTO: 13/03/2018 22:07
+Data di creazione: 13/03/2018
+Data di modifica: 13/03/2018
+
+INFORMAZIONI DI CONTATTO
+
+Nome società: 
+Contatto: 
+Indirizzo: 
+
+
+
+
+
+Telefono: 
+Fax: 
+E-mail: 
+
+ISTRUZIONI SPECIALI E ALTRE INDICAZIONI
+
+
+
+
+
+
+Plug-in esterni 0
+Oggetti non opachi: A pagina1
+
+FONT
+6 font usati; 1 mancanti, 0 incorporati, 0 incompleti, 0 protetti
+
+Font inclusi nel pacchetto
+- Nome: Antonio-Light; Tipo: TrueType, Stato: OK
+- Nome: Antonio-Regular; Tipo: TrueType, Stato: OK
+- Nome: Helvetica Regular; Tipo: ???, Stato: mancanti
+- Nome: Metric-Bold; Tipo: OpenType Type 1, Stato: OK
+- Nome: Metric-Medium; Tipo: OpenType Type 1, Stato: OK
+- Nome: Metric-Regular; Tipo: OpenType Type 1, Stato: OK
+
+
+COLORI E INCHIOSTRI
+4 inchiostri di quadricromia; 0 inchiostri tinta piatta
+
+- Nome e tipo: Cyan quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+- Nome e tipo: Magenta quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+- Nome e tipo: Giallo quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+- Nome e tipo: Nero quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+
+
+COLLEGAMENTI E IMMAGINI
+(Solo collegamenti mancanti e incorporati)
+Collegamenti e immagini: 22 collegamenti trovati; 0 modificati, 0 mancanti, 0 Non accessibile
+Immagini: 0 incorporati, 20 usano spazio cromatico RGB
+
+
+IMPOSTAZIONI DI STAMPA
+PPD: N/D, (XP-432 435 Series(Rete))
+Stampa in corso su: Stampante
+Numero di copie: 1
+Pagine affiancate: No
+Pagine pari/dispari: Entrambe
+Pagine: Tutte
+Prova di stampa: No
+Divisione in porzioni: Nessuno
+Scala: 100%, 100%
+Posizione pagina: In alto a sinistra
+Stampa livelli: Livelli visibili e stampabili
+Segni di stampa: Nessuno
+Pagina al vivo: 0 mm, 0 mm, 0 mm, 0 mm
+Colore: RGB composito
+Modalità abbondanza: Nessuno
+Invia dati immagine: Subsampling ottimizzato
+Sostituzione immagini OPI/DCS: No
+Dimensioni pagina: A3
+Dimensioni carta: 210 mm x 297 mm
+Orientamento: Orizzontale
+Negativo: No
+Modalità riflessione: Disattivato
+
+
+ELENCO DEI FILE DEL PACCHETTO
+
+1. biografia 13-03.indd; tipo: Pubblicazione Adobe InDesign; dimensione: 5392K
+2. biografia 13-03.idml; tipo: Documento InDesign Markup; dimensione: 113K
+3. biografia 13-03.pdf; tipo: Documento Adobe Acrobat; dimensione: 780K
+4. antonio.light.ttf; tipo: Font; dimensione: 45K
+5. antonio.regular.ttf; tipo: Font; dimensione: 46K
+6. Metric-Bold.otf; tipo: Font; dimensione: 51K
+7. Metric-Medium.otf; tipo: Font; dimensione: 46K
+8. Metric-Regular.otf; tipo: Font; dimensione: 48K
