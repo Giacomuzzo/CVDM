@@ -11,12 +11,12 @@ FullName:Antonio Regular
 MenuName:Antonio
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Utente\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\antonio.regular.ttf
+OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\antonio.regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:47944
-FileModTime:1520517926
+FileModTime:1521298065
 WeightClass:400
 WidthClass:1
 AngleClass:0
@@ -35,14 +35,14 @@ FullName:Metric Bold
 MenuName:Metric Bold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Utente\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\Metric-Bold.otf
+OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\Metric-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:52484
-FileModTime:1520603815
+FileModTime:1521298065
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -61,14 +61,14 @@ FullName:Metric Bold Italic
 MenuName:Metric Bold
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\Utente\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\Metric-BoldItalic.otf
+OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\Metric-BoldItalic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:53264
-FileModTime:1520603821
+FileModTime:1521298065
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -87,14 +87,14 @@ FullName:Metric
 MenuName:Metric Regular
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Utente\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\Metric-Regular.otf
+OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\Metric-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:49292
-FileModTime:1520603884
+FileModTime:1521298065
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -114,14 +114,14 @@ FullName:Metric Regular Italic
 MenuName:Metric Regular
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\Utente\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\Metric-RegularItalic.otf
+OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\Metric-RegularItalic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:50776
-FileModTime:1520603903
+FileModTime:1521298065
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -140,14 +140,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Utente\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\Chiara\Desktop\CVDM\2. RAPPORTO ARTISTA\Cartella tav2\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1510611850
+FileModTime:1521298065
 WeightClass:400
 WidthClass:5
 AngleClass:0
